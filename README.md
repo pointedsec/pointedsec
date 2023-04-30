@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Andrés</h1>
 <h3 align="center">Un desarrollador web de España!</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Typescript, NodeJS, NextJS y SpringBoot!**
+- 🌱 Actualmente estoy aprendiendo **Typescript, NextJS y RoR**
 
 - 📫 Si quieres contactarme, mandame un correo a **drewdaw9@gmail.com**
 
