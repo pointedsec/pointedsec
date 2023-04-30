@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Andrés</h1>
 <h3 align="center">Un desarrollador web de España!</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Typescript, NextJS y RoR**
+- 🌱 Actualmente estoy aprendiendo **VB y .NET por cuestiones de trabajo y RoR como hobbie :)**
 
-- 📫 Si quieres contactarme, mandame un correo a **drewdaw9@gmail.com**
+- 📫 Si quieres contactarme, mándame un correo a **drewdaw9@gmail.com**
 
 - ⚡ Fun fact **Mido 1,65 y aparento tener 16 años**
 
