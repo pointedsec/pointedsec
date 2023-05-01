@@ -13,7 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andresdrew02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andresdrew02&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresdrew02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=pointedcs)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
