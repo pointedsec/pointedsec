@@ -2,7 +2,7 @@
 <h3 align="center">Un desarrollador web de España!</h3>
 
 # 💫 Sobre mi:
-🌱 Actualmente estoy aprendiendo VB y .NET por cuestiones de trabajo y RoR como hobbie :)<br><br>📫 Si quieres contactarme, mándame un correo a drewdaw9@gmail.com<br><br>⚡ Fun fact Mido 1,65 y aparento tener 16 años
+🌱 Actualmente estoy aprendiendo RoR como hobbie :)<br><br>📫 Si quieres contactarme, mándame un correo a drewdaw9@gmail.com<br><br>⚡ Fun fact Mido 1,65 y aparento tener 16 años
 
 
 ## 🌐 RRSS:
